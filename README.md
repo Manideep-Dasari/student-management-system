@@ -47,7 +47,7 @@ Student [id=4, name=Maya, grade=7.8]
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/Manideep-Dasari/student-management-system.git
    ```
 2. Open in your IDE (Eclipse / IntelliJ / VS Code).
 3. Compile and run the **Main** class.
