@@ -82,10 +82,11 @@ public class Main {
 
 		stu.students.add(new Student(1, "Mani", "10.0"));
 		stu.students.add(new Student(2, "Sreya", "9.8"));
-		stu.students.add(new Student(3, "Deepak", "8.9"));
-		stu.students.add(new Student(4, "Maya", "7.8"));
+		stu.students.add(new Student(3, "Veda Varshini", "8.9"));
+		stu.students.add(new Student(4, "Vishnu Vihari", "7.8"));
 
 		stu.start();
 	}
 
 }
+
