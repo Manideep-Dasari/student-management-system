@@ -15,9 +15,9 @@ It demonstrates adding, removing, and displaying students using a menu-driven pr
 ---
 
 ## 🛠️ Tech Stack
-- Java  
-- ArrayList  
-- IDE: Eclipse / IntelliJ IDEA / VS Code  
+- **Language**: Java    
+- **IDE**: Eclipse
+- **Core Concepts**: `ArrayList`
 
 ---
 
