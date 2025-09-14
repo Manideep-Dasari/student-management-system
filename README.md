@@ -39,8 +39,8 @@ Student [id=4, name=Maya, grade=7.8]
 ---
 
 ## 📌 Outcome
-- Learn how to **create objects**, **use collections**, and **implement OOP basics** in Java.  
-- Understand **menu-driven programs** and **user input handling**.
+- Learned how to **create objects**, **use collections**, and **implement OOP basics** in Java.  
+- Understood **menu-driven programs** and **user input handling**.
 
 ---
 
