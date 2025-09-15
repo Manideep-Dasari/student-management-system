@@ -50,5 +50,5 @@ Student [id=4, name=Maya, grade=7.8]
    git clone https://github.com/Manideep-Dasari/student-management-system.git
    ```
 2. Open in your IDE (Eclipse / IntelliJ / VS Code).
-3. Compile and run the **Main** class.
+3. Compile and run the `Main` class.
 4. Follow the menu options to manage students.
